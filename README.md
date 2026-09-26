@@ -1,6 +1,21 @@
 https://garyanikin.github.io/oko-landing/
 
 
+[Контроль хода строительства — архитектура системы](https://github.com/garyanikin/oko-landing/blob/main/Контроль%20хода%20строительства%20—%20архитектура%20системы.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Лендинг ОКО — ночная смена — design reference
 
 This is a design mockup created in a visual design tool (an appifact
