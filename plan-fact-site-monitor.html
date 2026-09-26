@@ -691,7 +691,7 @@ const TODAY_D=D(TODAY);
 
 let saved=null;try{saved=localStorage.getItem('pf-lang');}catch(e){}
 const state={
-  lang:saved==='ru'?'ru':'en',tab:'live',T:42,playing:false,speed:1,stopAt:null,
+  lang:saved==='ru'?'ru':'ru',tab:'live',T:42,playing:false,speed:1,stopAt:null,
   schedLoaded:true,camCheck:'done',camRes:Object.fromEntries(CAMS.map(c=>[c.id,c.ms?'ok':'timeout'])),
   poly:clone(DEFAULT_POLY),editCam:'CAM-6',showZones:true,showBoxes:true,
   report:null,report0:null,devIds:[],verdicts:{},fmType:{},corr:{removed:new Set(),override:{}},openCorr:null,openFM:null,
